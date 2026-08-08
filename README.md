@@ -1,6 +1,5 @@
 # 💫 About Me:
 - Hii there 👋, I'm Sejal!  
-- 💻 3rd-year CSE student  
 - 🤖 Working on real-time AI + web apps  
 - 🚀 Passionate about tech and problem-solving  
 - 🌟 Exploring new technologies and projects  
@@ -13,7 +12,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Sejal-l&theme=dark&hide_border=false)<br/>
